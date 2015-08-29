@@ -1,0 +1,11 @@
+{
+  "name" : "dwquiet_energy",
+  "version" : "Beta v. Pleased Giraffe - Update 1",
+  "path" : ".",
+  "requires" : [ ],
+  "metadata": {
+    "author" : "deviantWren",
+    "description" : "Alters energy full and energy depletion sounds.",
+    "support_url" : "content.hope@gmail.com"
+        }
+}

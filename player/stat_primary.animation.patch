@@ -1,0 +1,17 @@
+[
+  {
+  "op" : "replace",
+  "path" : "/sounds/outOfEnergy/0",
+  "value" : "/sfx/instruments/koto/a0.ogg"
+  },
+  {
+  "op" : "replace",
+  "path" : "/sounds/energyRegenDone/0",
+  "value" : "/sfx/interface/nav_select.wav"
+  },
+  {
+  "op" : "test",
+  "path" : "/sounds/outOfEnergy/0",
+  "value" : "sfx/instruments/koto/a0.ogg"
+  }
+]
