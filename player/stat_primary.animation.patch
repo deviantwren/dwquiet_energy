@@ -12,6 +12,6 @@
   {
   "op" : "test",
   "path" : "/sounds/outOfEnergy/0",
-  "value" : "sfx/instruments/koto/a0.ogg"
+  "value" : "/sfx/instruments/koto/a0.ogg"
   }
 ]
